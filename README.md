@@ -5,6 +5,9 @@
 In my framework, the following observations are reproduced from first principles.
 No free parameters for precision constants. No dark matter particles. No MOND.
 
+<img width="1269" height="848" alt="image" src="https://github.com/user-attachments/assets/9d294ad4-5dda-4083-ba6f-0f7f119925b3" />
+
+
 ---
 
 ## Observational Evidence
