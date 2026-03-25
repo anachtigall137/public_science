@@ -1,22 +1,26 @@
 # public_science
 
+<details>
+<summary>New: Blackholes have Eigen-light!</summary>
 
-## New: Blackholes have Eigen-light!
+## Emerging Eichfields
 As long Blackholes are fed by matter, they emit Hawking radiation, which cannot flow away through quarks-coupling.
 So, instead the emerge to Eichfields and create.... PHOTON
 Soon here: A Simulation
 <img width="1194" height="857" alt="image" src="https://github.com/user-attachments/assets/87eee2d1-b5af-49b7-9be0-964d1d0fe6d1" />
+</details>
 
-## Solved: Galaxy Rotation Anomaly — Without Dark Matter Particles
+<details>
+<summary> QCaviat: Galaxy Rotation Anomaly — Without Dark Matter Particles</summary>
 
-In my framework, the following observations are reproduced from first principles.
+  ## Quantum Caviats (frustrated quantum topologie at large scale)
+In this framework, the following observations are reproduced from first principles.
 No free parameters for precision constants. No dark matter particles. No MOND.
 
 <img width="1269" height="848" alt="image" src="https://github.com/user-attachments/assets/9d294ad4-5dda-4083-ba6f-0f7f119925b3" />
-
-
+  
+    
 ---
-
 ## Observational Evidence
 
 ### Precision Constants (zero free parameters)
@@ -104,5 +108,5 @@ Based on three physical principles only:
 No free parameters. No dark matter particles. No MOND. No voodoo.
 
 Contact me for interactive session and explanation. Create an Issue.
-
+</details>
 
