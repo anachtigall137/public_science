@@ -1,5 +1,12 @@
 # public_science
 
+
+## New: Blackholes have Eigen-light!
+As long Blackholes are fed by matter, they emit Hawking radiation, which cannot flow away through quarks-coupling.
+So, instead the emerge to Eichfields and create.... PHOTON
+Soon here: A Simulation
+<img width="1194" height="857" alt="image" src="https://github.com/user-attachments/assets/87eee2d1-b5af-49b7-9be0-964d1d0fe6d1" />
+
 ## Solved: Galaxy Rotation Anomaly — Without Dark Matter Particles
 
 In my framework, the following observations are reproduced from first principles.
