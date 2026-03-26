@@ -53,13 +53,15 @@ The quark network crystallizes. The crystal emits light.
 No new particles. No free parameters. Just topology doing its job.
 
 ---
+https://github.com/user-attachments/assets/786cd27a-5cd4-422a-b79d-95ce009ef4c9
 
-<img width="1194" height="857" alt="BH Eigen-light simulation" src="https://github.com/user-attachments/assets/87eee2d1-b5af-49b7-9be0-964d1d0fe6d1" />
 
 *Simulation: emission from spinning BH → quark docking → frustrated triangles → Eigen-light.
 Bipolar jets emerged spontaneously from Kerr geometry — not programmed.*
 
 </details>
+
+
 
 <details>
 <summary> QCaviat: Galaxy Rotation Anomaly — Without Dark Matter Particles</summary>
