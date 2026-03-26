@@ -22,6 +22,7 @@ quantum spin liquids (Herbertsmithit, confirmed by Nature 2012).
 When enough triangles lock together: the structure emits photons. Not captured photons. New ones.
 
 **This is Eigen-light** — self-generated luminescence, like a deep-sea fish that carries its own lamp.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/af35403d-206d-40c7-abef-37b409fd073f" />
 
 ---
 
