@@ -1,5 +1,5 @@
 # public_science
-
+<!--
 <details>
 <summary>New: Black Holes have Eigen-light — they glow from the inside out</summary>
 
@@ -45,7 +45,7 @@ energy can be teleported through entanglement: measuring one part of an
 entangled system causes an energy flash to appear elsewhere —
 extracted directly from the quantum vacuum (Ikeda et al. 2023; Rodriguez-Briones et al. 2023).
 
-This is the same mechanism at cosmic scale.
+This could be the same mechanism at cosmic scale.
 The black hole extracts energy from vacuum entanglement at the ergosphere
 and delivers it, via TVA, to the quark network in the surrounding gas.
 The quark network crystallizes. The crystal emits light.
@@ -61,7 +61,7 @@ Bipolar jets emerged spontaneously from Kerr geometry — not programmed.*
 
 </details>
 
-
+-->
 
 <details>
 <summary> QCaviat: Galaxy Rotation Anomaly — Without Dark Matter Particles</summary>
