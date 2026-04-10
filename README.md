@@ -61,7 +61,6 @@ Bipolar jets emerged spontaneously from Kerr geometry — not programmed.*
 
 </details>
 
--->
 
 <details>
 <summary> QCaviat: Galaxy Rotation Anomaly — Without Dark Matter Particles</summary>
@@ -163,3 +162,4 @@ No free parameters. No dark matter particles. No MOND. No voodoo.
 Contact me for interactive session and explanation. Create an Issue.
 </details>
 
+-->
